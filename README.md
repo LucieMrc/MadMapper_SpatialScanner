@@ -1,6 +1,6 @@
 # MadMapper : utilisation du Spatial Scanner
 
-Le but est de mettre en place rapidement un mapping sur une structure en utilisant un appareil photo et le scanner spatial de Madmapper. 
+**Ou comment mettre en place rapidement un mapping sur une structure en utilisant un appareil photo et le scanner spatial de Madmapper.**
 
 Pré-requis : 
 - avoir lu le tuto [MadMapper_2spi](https://github.com/LucieMrc/Madmapper_2spi); 
